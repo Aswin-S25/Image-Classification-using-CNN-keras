@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) using Keras for ima
 ## Dataset
 
 The dataset used for training and testing the model can be found at the following link:
-[Dataset: Dogs vs Cats](link_to_your_dataset)
+[Dataset: Dogs vs Cats](https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD)
 
 Please download the dataset and organize it in the following structure:
 
